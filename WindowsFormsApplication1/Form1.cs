@@ -19,7 +19,7 @@ using System.Reflection;
 
 namespace WindowsFormsApplication1
 {
-
+    //test
     public partial class Form1 : Form
     {
         public Form1()
@@ -36,6 +36,7 @@ namespace WindowsFormsApplication1
             //int count = tempstr.GetWordLenth();
             ////textBox1.Text = count.ToString();
             //textBox1.Text = tempstr.IsValidEmail().ToString();
+            int a = 1;
             #endregion
             #region select、selectMany
             //************************select、selectMany************************
